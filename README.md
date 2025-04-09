@@ -39,21 +39,39 @@
 🔹 **[Ola Bookings Analysis (SQL & Power BI)](https://github.com/0Abhishek2/Ola-Bookings-Analysis)**  
 📌 *Performed in-depth ride booking analysis, identifying peak hours, demand fluctuations, and customer preferences using SQL & Power BI.*
 
----
-
-## 🛠️ **Technical Skills**
-
-```
-📊 Data Analysis: 📈 Advance Excel | 📊 Power BI | 📉 Tableau 
-🛢️ Databases: 🔍 SQL | 💾 MySQL | 🏛️ PostgreSQL
-🤖 Machine Learning: 🤯 Scikit-Learn | 🧠 TensorFlow
-🐍 Programming: 🐍 Python | 🔢 Pandas | 📊 NumPy | 📉 Matplotlib | 📊 Seaborn | 📈 Plotly
-🌐 Web Framework: 🚀 Flask
-🎨 Design & Docs: 🎨 Canva | 📝 MS Word | 📑 MS PowerPoint
-```
+🔹 **[Car Price Predictor (ML + Flask Project)](https://github.com/0Abhishek2/Car-Price-Predictor)**  
+📌 *Built a machine learning model to estimate car prices using linear regression, deployed with Flask to create a live prediction web app.*
 
 ---
 
+ 
+### 📊 Data Analysis & Visualization
+- 📈 **Advanced Excel**
+- 📊 **Power BI**
+- 📉 **Tableau**
+- 📉 **Matplotlib**, 📊 **Seaborn**, 📈 **Plotly**
+
+### 🛢️ Databases & Query Languages
+- 🔍 **SQL**
+- 💾 **MySQL**
+- 🏛️ **PostgreSQL**
+
+### 🐍 Programming & Scripting
+- 🐍 **Python**
+- 🔢 **Pandas**, 📊 **NumPy**
+
+### 🤖 Machine Learning & AI
+- 🤯 **Scikit-Learn**
+- 🧠 **TensorFlow**
+
+### 🌐 Web Frameworks
+- 🚀 **Flask**
+
+### 🎨 Design & Documentation
+- 🎨 **Canva**
+- 📝 **MS Word**, 📑 **MS PowerPoint**
+
+---
 ### 🤝 **Connect with Me**
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Abhishe28998325?t=SKGVrAyDKme1xFIBcUYSTw&s=09)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-gupta-928aa025b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
@@ -61,6 +79,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/abhi039536)  
 
 ---
+
 
 ### 🎨 **Other Interests**
 🚀 **Tech & AI Trends** – Exploring the latest innovations.  
@@ -70,14 +89,15 @@
 
 ---
 
+
 ### ⚡ **Fun Fact**
 😆 **"Data analysis is my Bankai!"** ⚡📈 *(Bleach)* – Just like a Shinigami’s Bankai unlocks their full potential, my data skills reveal the ultimate insights!  
 
 ---
 
+
 ### 👨‍💻 **My Data Vibes**
 ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
 📊 **Why I Love Data Analysis** – It’s like detective work but with numbers! I enjoy uncovering hidden patterns, making sense of complex datasets, and drawing impactful conclusions.  
 🤝 **Open to Collaborations!** – Always excited to work on challenging data problems, connect with like-minded people, and explore new opportunities. Let's make data magic happen! 🚀  
-
----
+"""
